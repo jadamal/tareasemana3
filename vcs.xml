@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/elhoeste/Mi_primer_proyecto_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/titodiazpierri/PruebaMarcianito" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\javie\AndroidStudioProjects" />
